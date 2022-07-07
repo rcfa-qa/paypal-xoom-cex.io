@@ -3,10 +3,11 @@
 * cex.io does not provide paypal.
 * paypal advertises prominently within its UI the XOOM wire service.
 * In order to avoid having to move the funds from paypal to own bank account, using XOOM.
-* 300ERU are send via XOOM to cex.io via wire.
+* 300ERU are [send via XOOM](https://github.com/rcfa-qa/paypal-xoom-cex.io/blob/main/01%20-%20XOOM-transaction) to cex.io via wire.
 * XOOM does not provide a standard "Reference" Field for a wire transfer.
 * CEX.IO cannot locate the wire, requests proof-of-transfer
-* XOOM provides a proof-of-transfer, without sender data
+* XOOM provides a [proof-of-transfer](https://github.com/rcfa-qa/paypal-xoom-cex.io/blob/main/01%20-%20XOOM-transaction), without sender data
+* CEX.IO says they cannot locate the payment based on the proof-of-transfer
 * CEX.IO insists on a proof-of-transfer with full sender/recipient data
 * XOOM ignores requests for such a proof-of-transfer
 * Asking XOOM to recall the wire (as suggested by CEX.IO)
@@ -16,8 +17,9 @@
 * Paypal sends 40EUR
 * I ask paypal 5 (five) times to take the 40EUR back - they don't
 * I ask paypal to escalate the issue- they don't
+* Support persons change, each and everyone replying more and more with non-relevant stuff / repetitions
 
-In the meantime, the 300EUR are already for 2 months at CEX.IO
+In the meantime, the 300EUR are nearly for 2 months at CEX.IO
 
 Goint through the support-battle @ paypal/XOOM costs excessive amounts of time.
 
