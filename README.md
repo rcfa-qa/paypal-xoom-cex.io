@@ -8,9 +8,8 @@
 * CEX.IO cannot locate the wire, requests proof-of-transfer
 * XOOM provides a [proof-of-transfer](https://github.com/rcfa-qa/paypal-xoom-cex.io/blob/main/01%20-%20XOOM-transaction), without sender data
 * CEX.IO says they cannot locate the payment based on the provided proof-of-transfer, needs full sender/recipient data
-* CEX.IO insists on a proof-of-transfer with full sender/recipient data
 * XOOM ignores my requests for such a proof-of-transfer
-  * => XOOM SHOULD provide those in a self-service manner via the APP UI - they don't
+* UNBELIEVABLE: XOOM asks for [bank statement of RECIPIENT](https://github.com/rcfa-qa/paypal-xoom-cex.io/blob/main/03%20-%20XOOM%20asking%20for%20recipient%20bank%20statement)
 * Asking XOOM to recall the wire (as suggested by CEX.IO)
 * XOOM does not respond to messages anymore
 * Asking paypal to refund the 300EUR and deal with XOOM
