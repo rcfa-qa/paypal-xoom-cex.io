@@ -28,3 +28,14 @@ Involving regulators/laywers etc. is far too much effort to recover EUR300.
 => I need to back off.
 
 => Paypal/XOOM have assisted CEX.IO to steal 300 EURO from me.
+
+
+## Paypal Covered
+
+After several attempts, paypal support finally escalated the issue and a manager/supervisor arranged a refund. Told me to still look out for the amount, as it is possibly stuck at XOOM.
+
+Personally I believe that CEX.IO has the money, but they intentionally provide barriers, until one is exhausted and gives up.
+
+## Essence
+
+Avoid using XOOM for anything than trivial wire transfers (e.g. peer-to-peer stuff)
